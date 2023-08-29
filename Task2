@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <h1><i>ITALY</i></h1>
+    </center>
+    <hr>
+    <h1>Italy:Country Culture and Customs</h1>
+    <h2><i>About..</i></h2>
+    <p>The beautiful country of Italy is in southern Europe on a peninsula in the northern Mediterranean. The country has a unique shape, resembling a boot, which makes it instantly recognizable on maps. Covering a total area of 301,340 km2 (116,342 mi2), Italy has some of the most scenic landscapes on Earth, ranging from the rugged mountains of the Alps to the beautiful islands of Sicily and Sardinia.
+
+        Italy culture combines centuries of heritage and tradition with roots back to the Ancient Roman Empire. Its country culture is rich in the arts, food, architecture, family, and music and is home to legendary figures such as Julius Caesar, Augustus, and Nero. Italy was also the birthplace of fascism under Benito Mussolini, as well as the Renaissance.</p>
+        
+        <p>Italian culture has flourished for thousands of years. Below are some interesting facts about Italy culture, country customs, and traditions.</p>
+        <br>
+        <img src="1.jpg" height="300"> <img src="g.jpg" height="300">
+        <h1>Population</h1>
+        <br>
+        <p>The population of Italy is estimated to be 58,870,762 (as of January 2023), which is a 0.28% decline from 2022. The largest city is Rome, with 2.3 million residents, followed by Milan, with 1.2 million residents, and Naples, with almost 960,000 residents. These three cities are the largest in Italy, and Rome is the capital and the fourth most populous city in the European Union.</p>
+        <br>
+        <h1>Languages Of Italy</h1>
+        <p>Italian is the official language of Italy, with 94% of the population speaking it as their native tongue. It is known as a Romance language, a descendant of Latin, and it developed from the Tuscan language of Florence in the 14th century, which has influenced todays standard Italian.
+
+            Regional languages also exist, such as Sicilian, Sardinian, and Lombard. It is important to note that these are not dialects but distinct languages, and they sound quite different from Standard Italian and may be difficult to understand. Languages of the northern regions are closer to French and Occitan than those of the south.</p>
+         <br>
+         <h1>Italian Food</h1>
+         <img src="Italian-Food.jpg" width="300">
+         <p>Food plays an integral part in the Italian lifestyle. The Italian food culture has influenced people worldwide with its fresh Mediterranean ingredients, homemade bread, pasta, olive oils, and rich meats. Eating in Italy is more than just satisfying hunger; it a way to bond with family and friends while meeting and enjoying each other company.
+
+            Dining is almost a ritual to many Italians, beginning with the aperitif or glass of wine, followed by heart-warming food, which ends with the inevitable coffee with friends. Typically, Italians eat three meals a day: breakfast, lunch, and dinner; their importance is also in creating a warm and welcoming environment, which is fundamental to their culture.</p>
+        <br>
+        <h1>Italy Art and Architecture</h1>    
+        <img src="art1.jpg" width="300"> <img src="art2.jpg" alt="">
+        <p>When it comes to art and architecture, you have a plethora to choose from in Italy. It was during Italy is Classical period that their most monumental buildings were constructed, with key features such as columns, arches, and vaulted ceilings. It is mainly due to the cement-based concrete that Italy’s Classical structures have lasted so long. The Romans invented this revolutionary material to construct many iconic structures in Rome.
+
+            Italy is Renaissance lasted from the 14th to the 17th centuries and remained one of its most defining periods in art and architecture. As well as being the era of great creative geniuses like Leonardo da Vinci and Michelangelo, it was also the time when some of Italy is most eye-catching and beautiful buildings were erected. A Renaissance building is characteristically symmetrical and often incorporates classical-influenced elements such as arches, columns (both structural and decorative), and imposing facades. With his design for the prestigious St. Peter is Basilica in Vatican City, Donato Bramante is one of the most influential Renaissance architects.
+            
+            Most of Italy is well-known structures were built centuries ago, but it also has some modern buildings in its larger metropolises. Designed in a classical Roman style, Rome is MAXXI National Museum of 21st Century Art is an outstanding example of modern Italian design. Numerous great museums exhibit contemporary art in Italy, including the Museo dArte Contemporanea in Rome and the Galleria Nazionale dArte Moderna in Milan.</p>
+            <h1>Italy Holidays And celebrations</h1>
+            <p>Italians celebrate 12 official public holidays every year. These days include national and religious holidays, which are widely observed by most of the population. Public holidays in Italy are marked by the closure of schools and post offices, and many private businesses also close. However, in recent years, more and more have stayed open on these days. Some significant monuments, such as the Colosseum, remain open throughout the year, except during Christmas and New Year is Day.</p>
+           <center><p>...........</p></center> 
+</body>
+</html>
