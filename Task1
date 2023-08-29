@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><b>NTA JEE Application form</b></title>
+</head>
+<body>
+    <center><h1>NTA JEE Application form</h1></p></center>
+    <hr>
+    <center>
+    <form action="">
+        <label for="name"><b>Candidates's Name:</b></label>
+        <input type="text" id="name" placeholder="Eg name:hari">
+        <br>
+        <br>
+        <label for="date of birth"><b>Candidate Date of birth:</b></label>
+        <input type="date" id="date of birth">
+        <br>
+        <br>
+        <label for=""><b>Gender:</b></label>
+        <select name="" id="Gender">
+            <option value="">--select--</option>
+            <option value="female">female</option>
+            <option value="male">male</option>
+        </select>
+        <br>
+        <br>
+        <label for="name"><b>Father's Name:</b></label>
+        <input type="text" id="name">
+        <br>
+        <br>
+        <label for="name"><b>Mother's Name:</b></label>
+        <input type="text" id="name">
+        <br>
+        <br>
+        <label for=""><b>Nationality:</b></label>
+        <select name="" id="Nationality">
+            <option value="">--select--</option>
+            <option value="">Indian</option>
+            <option value="">other country</option>
+        </select>
+        <br>
+        <br>
+        <label for=""><b>state/Appearing/UT from where 12th:</b></label>
+        <select name="" id="">
+            <option value="">choose state</option>
+            <option value="">Andhra Pradesh</option>
+            <option value="">Arunachal Pradesh</option>
+            <option value="">Telangana</option>
+            <option value="">Karnataka</option>
+            <option value="">Tamilnadu</option>
+            <option value="">Kerala</option>
+            <option value="">Madhya pradesh</option>
+            <option value="">Uttar Pradesh</option>
+            <option value="">Punjab</option>
+        </select>
+        <br>
+        <br>
+        <label for=""><b>Category:</b></label>
+        <select name="" id="">
+            <option value="">select</option>
+            <option value="">Open category</option>
+            <option value="">SC/ST</option>
+            <option value="">BC</option>
+        </select>
+        <br>
+        <br>
+        <label for=""><b>Are you a PWD Candidate?:</b></label>
+        <select name="" id="">
+            <option value="">select</option>
+            <option value="">YES</option>
+            <option value="">NO</option>
+            
+
+        </select>
+        <br>
+        <br>
+        <label for="Address"><b>Place of residence:</b></label>
+        <input type="text" id="Address">
+        <br>
+        <br>
+        <label for=""><b>Mode of Preparation:</b></label>
+        <select name="" id="">
+            <option value="">--select--</option>
+            <option value="">Online</option>
+            <option value="">Offline</option>
+        </select>
+        <br>
+        <br>
+        <label for=""><b>Medium of Schooling in Qualifying Exam:</b></label>
+        <select name="" id="">
+            <option value="">select</option>
+            <option value="">English</option>
+            <option value="">Other</option>
+        </select>
+        <br>
+        <br>
+    </form>
+    <hr>
+</center>
+<h2>Apply for</h2>
+<hr>
+<center>
+    <label for=""><b>Apply for:</b></label>
+    <select name="" id="">
+        <option value="">select</option>
+        <option value="">B.Arch</option>
+        <option value="">jee mains</option>
+        <option value="">NATA</option>
+    </select>
+    <br>
+    <br>
+    <label for=""><b>Sessions of Exam Apply For:</b></label>
+    <input type="checkbox" id="January" >
+    <label for="">January</label>
+    <input type="checkbox" id="April">
+    <label for="">April</label>
+    <br>
+    <br>
+    <label for=""><b>Exam State/1st-choice:</b></label>
+    <select name="" id="">
+        <option value="">select</option>
+        <option value="">Tirupathi</option>
+        <option value="">Anantapur</option>
+    </select>
+    <br>
+    <br>
+    <label for=""><b>Exam State/2nd-choice</b></label>
+    <select name="" id="">
+        <option value="">select</option>
+        <option value="">Kadapa</option>
+        <option value="">Rajampeta</option>
+    </select>
+    <br>
+    <br>
+    <label for=""><b>Exam State/3rd_choice</b></label>
+    <select name="" id="">
+        <option value="">select</option>
+        <option value="">Tirupathi</option>
+        <option value="">Anantapur</option>
+    </select>
+    <br>
+    <br>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>
+                    Qualification </th>
+                    <th>pass status
+                    </th>
+                    <th>qualifying exam</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    10th &12th Equivalent
+                </td>
+                <td>
+                    <select name="" id="">
+                        <option value="">select</option>
+                        <option value="">pass</option>
+                        <option value="">fail</option>
+                    </select>
+                    <td>
+                        <select name="" id="">
+                            <option value="">select</option>
+                            <option value="">state board</option>
+                            <option value="">CBSE</option>
+                        </select>
+                    </td>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <hr>
+</center>
+<h3>Additional Details</h3>
+<hr>
+<center>
+    <label for="">Are You a Twin?</label>
+    <select name="" id="">
+        <option value="">select</option>
+        <option value="">Yes</option>
+        <option value="">No</option>
+    </select>
+    <br><br>
+    <label for="paddress">Present Home address:</label>
+    <input type="text" id="address" placeholder="district,mandal,d.no">
+    <br><br>
+    <label for="peaddress">permanent Home address:</label>
+    <input type="text" id="peaddress" placeholder="district,mandal,d.no">
+<br>
+</center>
+<hr>
+<h3>Fee Payment Details</h3>
+<hr>
+<center>
+<br>
+<label for="fee">payment mode</label>
+<input type="text" id="fee"> 
+<br><br>
+<label for="">Exam fee</label>
+<input type="number">
+<br>
+<br>
+<label for="">Fee Submitted on:</label>
+<input type="date">
+<br>
+</center>
+<hr>
+<center>
+<p><b>DECLARATION</b></p>
+<hr>
+<pre>   I hereby declare that all the particulars given by this form are true to the best of my knowledge
+    and belief and any mistake/misinformation detected at the time of admissions or at any stage in 
+    future ,will result the cancellation of my admission .I  have read the information bulletin and 
+    understood all my procedures .In case I furnish any false information,then my result will not 
+    be declared .I shall abide by terms and conditions therein. 
+</pre>
+<input type="checkbox" id="agree">
+<label for="agree">I Agree</label>
+<br>
+<input type="reset">
+<input type="submit">
+</center>
+<hr>
+
+</body>
+</html>
